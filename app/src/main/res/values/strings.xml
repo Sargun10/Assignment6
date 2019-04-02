@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">API Call</string>
+    <string name="fetchPosts">Fetch Posts</string>
+    <string name="noInternetConnection">No Internet Connection!!</string>
+    <string name="tvDefaultMessage">Select User to view details !!</string>
+    <string name="exceptionMessage">must implement OnFragmentInteractionListener</string>
+</resources>
